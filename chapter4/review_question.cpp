@@ -55,7 +55,5 @@ int main()
 	const int num1 = 10;
 	std::vector<string> str_vec(num1);
 	std::array<string, num1> str_arr;
-
-
 	return 0;
 }
