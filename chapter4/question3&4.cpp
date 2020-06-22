@@ -17,7 +17,6 @@ int main()
 		2.3,
 		350 
 	};
-
 	cout << snack << endl;
 	return 0;
 }
