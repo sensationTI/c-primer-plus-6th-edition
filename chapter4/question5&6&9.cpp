@@ -49,6 +49,5 @@ int main()
 	cout << ptr[0].weight << ", " << ptr[1].weight << ", " << ptr[2].weight << endl;
 	cout << "Calories: " << endl;
 	cout << ptr[0].calories << ", " << ptr[1].calories << ", " << ptr[2].calories << endl;
-
 	return 0;
 }
